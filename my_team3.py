@@ -129,7 +129,13 @@ class DefensiveReflexAgent2(ReflexCaptureAgent):
   """
 
     def get_features(self, game_state, action):
-        if(game_state.get_score() >= 2):
+        self_state = game_state.get_agent_state(self.index)
+        carrying = self_state.num_carrying
+        if self.red:
+            score = game_state.get_score()
+        else:
+            score = game_state.get_score() * -1
+        if (score <= 2 and carrying <= abs(score - 2)):
             features = util.Counter()
             successor = self.get_successor(game_state, action)
             
