@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+mohar/
+mohar/*
+pacman-contest/
+training_runs/

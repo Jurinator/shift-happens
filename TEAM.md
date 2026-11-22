@@ -1,19 +1,17 @@
 # Team Information
 
-**Course:** _[fill your course code and name]_
+**Course:** None
 
-**Semester:** Semester 2, 2020
+**Semester:** Semester 1, 2026
 
-**Instructor:** _[name of your instructor]_
+**Instructor:** None
 
-**Team name:** _[replace this with team name in plan text]_
+**Team name:** Shift happens
 
 **Team members:**
 
-* Student 1's Student number - Full Name - Student email - Student Github id
-* Student 2's Student number - Full Name - Student email - Student Github id
-* Student 3's Student number - Full Name - Student email - Student Github id
+* 63260089 - jg22844@student.uni-lj.si - 85701889
+* 63260094 - ag10863@student.uni-lj.si - 199499472
+* 63260355 - mv91254@student.uni-lj.si - 155271997
+* 63260274 - ar57826@student.uni-lj.si - 119756158
 
-Replace the lines above with the correct details of members. Delete or add lines as needed.
-
-Student numbers should just be the **numbers**.
